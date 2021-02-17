@@ -1,2 +1,3 @@
 one function of a computers operating system is to control all its resources. the operating system operates the memory, disk drives. this is just one of its jobs  
-the operating systems in computers is also controls the systems health. the operating system tacks all the response times and how the computer runs to the user needed ingformation. this information is essential for troubleshooting
+the operating systems in computers is also controls the systems health. the operating system tacks all the response times and how the computer runs to the user needed information. this information is essential for troubleshooting
+the operating system is in direct control of handling all input and output data. when you input information the operating system takes it in and finds what to do with it giving you your output data. its the operating systems job to corectly do all this 

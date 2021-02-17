@@ -1,0 +1,1 @@
+one function of a computers operating system is to control all its resources. the operating system operates the memory, disk drives. this is just one of its jobs  
